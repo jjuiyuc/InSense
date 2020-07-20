@@ -5,54 +5,34 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 第四組 香氛電商平台
 
-+基礎技術: HTML5+ sass<br />
-+前端技術: React.js + Redux + JavaScript(ES6)<br /> 
-+後端技術: Node.js + express.js + MySQL <br />
-+前端套件: MATERIAL-UI<br />
-+git技術: git (github)<br />
-+編輯器技術: vscode<br />
++ 基礎技術: HTML5+ sass<br />
++ 前端技術: React.js + Redux + JavaScript(ES6)<br /> 
++ 後端技術: Node.js + express.js + MySQL <br />
++ 前端套件: MATERIAL-UI<br />
++ 版本控制: git (github)<br />
++ 編輯器技術: vscode<br />
 
 
-
-
-<br />
 
 
 ### 功能說明
 
-+會員系統 (CRUD)<br />
-+購物車系統 (包括訂單系統)<br />
-+願望清單系統 (database)<br />
-+結帳系統 (CR)<br />
++ 會員系統 (CRUD)<br />
++ 購物車系統 <br />
++ 願望清單系統 (database)<br />
++ 篩選系統<br />
++ 訂單系統 (CRD)<br />
++ 優惠券訂閱系統<br />
++ 課程預約系統<br />
 
 
 
-## Learn More
+### 如何使用?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
++ 安裝 / npm install
++ 啟動 / npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 使用版權
 
-### Code Splitting
++ 圖片和影片僅作為模擬使用，不可公開商業使用
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
