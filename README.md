@@ -1,21 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 資策會MFEE07大專題（前端 React.js）
 
-In the project directory, you can run:
 
-### `npm start`
+### 第四組 香氛電商平台
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
++基礎技術: HTML5+ sass
++前端技術: React.js + Redux + JavaScript(ES6) 
++後端技術: Node.js + express.js + MySQL 
++前端套件: 
++git技術: git (github)
++編輯器技術: vscode
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+<br />
+
+
+### 功能說明
+
+會員系統 (CRUD)
+購物車系統 (包括訂單系統)
+願望清單系統 (database)
+結帳系統 (CR)
 
 ### `npm run build`
 
