@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## 資策會MFEE07大專題（前端 React.js）
 
 
