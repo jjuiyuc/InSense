@@ -13,7 +13,7 @@
 ## 功能說明
 
 ### 首頁 <br />
-協作者：#CTC076 &nbsp;  #LucianoKJ &nbsp; #peggychenpw &nbsp; #ReiYu01 &nbsp; #YiChengChen0608
+協作者：#CTC076 &nbsp;  #LucianoKJ &nbsp; #peggychenpw &nbsp; #jjuiyuc &nbsp; #YiChengChen0608
   <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/index.png" width="720" />
 
 ### 會員系統 (CRUD)<br />
@@ -31,14 +31,14 @@
    <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/%E8%B3%BC%E7%89%A9%E8%BB%8A%E8%A9%B3%E7%B4%B0%E9%A0%81.png" width="720" /><br /> 
  
 ### 願望清單系統 (database)<br />
-協作者：#LucianoKJ &nbsp;#ReiYu01
+協作者：#LucianoKJ &nbsp;#jjuiyuc 
  + 加進願望清單 <br />
    <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/saveItem.png" width="180" /><br /> 
  + 願望清單詳細頁 <br />
    <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/%E9%A1%98%E6%9C%9B%E6%B8%85%E5%96%AE%E8%A9%B3%E7%B4%B0.png" width="720" /><br /> 
  
 ### 商品資訊<br />
-協作者：#LucianoKJ &nbsp;#ReiYu01
+協作者：#LucianoKJ &nbsp;#jjuiyuc 
 + 商品頁面 <br />
 + 篩選系統 <br />
   <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/filter%E5%8A%9F%E8%83%BD.png" height="360" />
