@@ -1,6 +1,5 @@
-# 資策會MFEE07大專題`（前端 React.js）`
 
-## 第四組 香氛電商平台
+## 香氛電商平台
 
 + 基礎技術: HTML5+ sass<br />
 + 前端技術: React.js + Redux + JavaScript(ES6)<br /> 
@@ -13,7 +12,7 @@
 ## 功能說明
 
 ### 首頁 <br />
-協作者：#CTC076 &nbsp;  #LucianoKJ &nbsp; #peggychenpw &nbsp; #jjuiyuc &nbsp; #YiChengChen0608
+協作者：#CTC076 &nbsp;  @LucianoKJ &nbsp; @peggychenpw &nbsp; @jjuiyuc &nbsp; @YiChengChen0608
   <img src="https://github.com/YiChengChen0608/InSense/blob/master/public/images/readmeImg/index.png" width="720" />
 
 ### 會員系統 (CRUD)<br />
